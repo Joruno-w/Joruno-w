@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
 - 🔭 I’m currently working on home
 - 🌱 I’m currently learning Vue,React,Nuxt...
 - 👯 I’m looking to collaborate on Vue Community
