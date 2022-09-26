@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [Joruno-w](https://github.com/Joruno-w)
 
-- 💬 Ask me about **Vue,React,Go,Flutter**
+- 💬 Ask me about **JavaScript,TypeScript,Vue,React**
 
 - ⚡ Fun fact **I'm good with people**
 
