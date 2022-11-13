@@ -31,7 +31,6 @@
 <br/>
 <br/>
 
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Joruno-w&show_icons=true&locale=en" alt="Joruno-w" /></p>
 
 
