@@ -21,6 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Joruno-w&show_icons=true&locale=en&layout=compact" alt="Joruno-w" /></p>
 
+<!-- <br/>
 <br/>
 <br/>
 <br/>
@@ -28,11 +29,10 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
+<br/> -->
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Joruno-w&show_icons=true&locale=en" alt="Joruno-w" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Joruno-w&show_icons=true&locale=en" alt="Joruno-w" /></p> -->
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Joruno-w&" alt="Joruno-w" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Joruno-w&" alt="Joruno-w" /></p> -->
